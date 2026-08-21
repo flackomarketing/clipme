@@ -9,7 +9,7 @@
 ClipMe turns Kick, Twitch, and YouTube streams into ranked, captioned vertical clips — and it can clip **during the live broadcast**, not just after the VOD uploads.
 
 - **Live clipping** — taps the live Kick HLS feed and cuts clips while the stream is still going, so the short exists while the moment is still hot.
-- **Vision-ranked picks** — every candidate moment is scored on an engine of 18 proprietary signals, not a single proxy like loudness or the transcript.
+- **Engine-ranked picks** — every candidate moment is scored on an engine of 18 proprietary signals, not a single proxy.
 - **Fast on VODs** — in a measured benchmark, a 10-hour stream produced ~50 ranked clips in about 5 minutes (real-world varies with stream length, queue and plan).
 - **Ready to post** — 9:16 / 1:1 / 16:9 renders, word-level burned-in captions with translation, auto-posting to TikTok, Reels & Shorts.
 - **Built for streamers** — facecam-plus-gameplay and IRL layouts, chat-aware moment detection, IRL & Just Chatting supported (not just gameplay-event detection).
