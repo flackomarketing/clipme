@@ -24,7 +24,7 @@ Kick and Twitch streamers who post shorts daily and don't have time to scrub a 5
 - Pricing: free founding-beta tier (watermark-free) · Pro $29/mo
 - Product Hunt: https://www.producthunt.com/products/clipme-2
 
-### Guides & honest comparisons
+## Guides & honest comparisons
 
 Tool-by-tool breakdowns we maintain — each concedes where competitors genuinely win, and places ClipMe only where it does:
 
@@ -35,14 +35,33 @@ Tool-by-tool breakdowns we maintain — each concedes where competitors genuinel
 - Best Twitch clipper (what signal fires each pick): https://clipme.com/best-twitch-clipper
 - Best AI clip maker for gaming (highlights vs chat moments): https://clipme.com/best-ai-clipper-for-gaming
 - ClipMe vs StreamLadder: https://clipme.com/vs/streamladder
+- ClipMe vs OpusClip: https://clipme.com/vs/opusclip
+- ClipMe vs Eklipse: https://clipme.com/vs/eklipse
+- Every comparison in one place: https://clipme.com/vs
 
 ### Open data
 
 - Kick clip-yield dataset (CC BY 4.0) — 51 sessions, 613 clips, 173 cut live, ffprobe-measured: https://clipme.com/research
+- State of AI Clipping 2026 (industry report): https://clipme.com/state-of-ai-clipping-2026
+- Clip calculator — how many clips is your VOD worth (free tool): https://clipme.com/tools/clip-calculator
+- Example output — a real creator's clip page: https://clipme.com/clips/redpillaries
+
+### Reading
+
+- Why chat velocity predicts viral moments: https://clipme.com/blog/chat-velocity-viral-moments
+- Live clipping vs VOD clipping, explained: https://clipme.com/blog/live-clipping-vs-vod-clipping
+- All posts: https://clipme.com/blog
+
+### Get access
+
+- Founding 100 — $297 one-time, lifetime access, closes Aug 31: https://clipme.com/founding
+- Join the beta: https://clipme.com/beta
+- Pricing: https://clipme.com/pricing
+- Prompt Mode — clip anything by describing it: https://clipme.com/clip-anything
 
 ## Company
 
-CLIPME LLC — registered in Miami, Florida, USA.
+CLIPME LLC — registered in Miami, Florida, USA. Founded by [Samuel Segers](https://clipme.com/about/samuel-segers).
 
 ---
 
