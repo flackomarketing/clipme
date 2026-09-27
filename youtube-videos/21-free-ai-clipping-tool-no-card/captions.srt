@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:04,254
+Free trial or free plan: which AI clipper is actually free?
+
+2
+00:00:05,204 --> 00:00:06,663
+The one with a free plan.
+
+3
+00:00:06,663 --> 00:00:10,047
+ClipMe's Starter plan never runs out, and there's no card.
+
+4
+00:00:10,997 --> 00:00:12,303
+A free trial runs out.
+
+5
+00:00:12,303 --> 00:00:14,084
+ClipMe's Starter plan doesn't.
+
+6
+00:00:14,084 --> 00:00:16,992
+It's free every month, and you don't need a card.
+
+7
+00:00:17,941 --> 00:00:23,317
+Starter uses the same AI picker as Pro, on one VOD a month under 5 hours.
+
+8
+00:00:24,267 --> 00:00:27,013
+Starter clips carry a ClipMe watermark.
+
+9
+00:00:27,013 --> 00:00:29,195
+Pro removes it for $29 a month.
+
+10
+00:00:30,145 --> 00:00:33,640
+See every free AI clipping tool at clipme.com.
+
+11
+00:00:33,640 --> 00:00:35,692
+Paste a VOD and start free.
+

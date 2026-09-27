@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:02,633
+Eklipse makes you wait until your stream ends.
+
+2
+00:00:03,583 --> 00:00:07,974
+Per its own site, Eklipse clips typically land 20 to 60 minutes after.
+
+3
+00:00:07,974 --> 00:00:10,922
+ClipMe's engine clips during the stream itself.
+
+4
+00:00:11,871 --> 00:00:13,333
+Kick, Twitch and YouTube.
+
+5
+00:00:13,333 --> 00:00:15,263
+Captioned, ranked, ready to post.
+
+6
+00:00:16,213 --> 00:00:18,666
+Paste a VOD free at clipme.com.
+

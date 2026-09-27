@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:02,035
+Looking for the best Twitch clipper?
+
+2
+00:00:02,985 --> 00:00:05,238
+After-stream tools wait for the VOD.
+
+3
+00:00:05,238 --> 00:00:07,742
+ClipMe's engine clips during the stream.
+
+4
+00:00:08,693 --> 00:00:12,277
+Captioned vertical clips, ranked with Twitch chat as one signal.
+
+5
+00:00:13,227 --> 00:00:15,680
+Paste a VOD free at clipme.com.
+

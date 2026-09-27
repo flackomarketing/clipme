@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,114
+YouTube removed the Clip button.
+
+2
+00:00:02,114 --> 00:00:03,657
+How do you clip streams now?
+
+3
+00:00:04,607 --> 00:00:08,339
+YouTube retired its viewer Clip button in April 2026.
+
+4
+00:00:08,339 --> 00:00:16,788
+Now you can cut Shorts by hand after the stream, or paste the stream's VOD into ClipMe and get ranked, captioned Shorts.
+
+5
+00:00:17,738 --> 00:00:21,168
+By hand, you scrub the stream and cut every Short yourself.
+
+6
+00:00:21,168 --> 00:00:24,714
+ClipMe ranks the moments and cuts them into captioned Shorts.
+
+7
+00:00:25,664 --> 00:00:29,931
+A multi-signal model ranks the whole stream, so the best moments come first.
+
+8
+00:00:30,881 --> 00:00:36,193
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+9
+00:00:37,143 --> 00:00:41,199
+See the best clipping tools for YouTube streams at clipme.com.
+
+10
+00:00:41,199 --> 00:00:43,031
+Paste a VOD and try it free.
+

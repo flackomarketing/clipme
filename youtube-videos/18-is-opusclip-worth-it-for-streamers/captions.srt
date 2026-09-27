@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:02,675
+Is OpusClip worth it for Kick streamers?
+
+2
+00:00:03,750 --> 00:00:06,946
+For podcasts and finished videos, OpusClip is solid.
+
+3
+00:00:06,946 --> 00:00:08,913
+For Kick streamers, it has gaps.
+
+4
+00:00:08,913 --> 00:00:12,539
+You upload after the stream, and credits run by the minute.
+
+5
+00:00:13,489 --> 00:00:15,161
+ClipMe is built for Kick.
+
+6
+00:00:15,161 --> 00:00:17,969
+It reads Kick chat, and it prices per VOD.
+
+7
+00:00:18,919 --> 00:00:21,264
+There's no per-minute credit meter.
+
+8
+00:00:21,264 --> 00:00:25,084
+Starter is free with a watermark, and Pro is $29 a month.
+
+9
+00:00:26,035 --> 00:00:30,814
+On Kick, chat activity is one of the signals ClipMe uses to rank each moment.
+
+10
+00:00:31,763 --> 00:00:35,881
+See how ClipMe compares to OpusClip for Kick at clipme.com.
+
+11
+00:00:35,881 --> 00:00:38,184
+Paste a Kick VOD and try it free.
+

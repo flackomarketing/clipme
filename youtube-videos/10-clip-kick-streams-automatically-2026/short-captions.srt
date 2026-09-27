@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:02,377
+This AI clipper reads Kick chat.
+
+2
+00:00:03,327 --> 00:00:04,726
+Stop scrubbing the VOD.
+
+3
+00:00:04,726 --> 00:00:07,402
+ClipMe reads the chat and ranks the moments.
+
+4
+00:00:08,351 --> 00:00:11,625
+Chat activity is one of the signals that rank the moments.
+
+5
+00:00:11,625 --> 00:00:13,770
+Clips come out captioned and vertical.
+
+6
+00:00:14,720 --> 00:00:17,323
+Paste a Kick VOD free at clipme.com.
+

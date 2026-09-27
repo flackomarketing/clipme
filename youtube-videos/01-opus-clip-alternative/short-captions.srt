@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:03,251
+Need an OpusClip alternative built for streamers?
+
+2
+00:00:04,201 --> 00:00:06,558
+OpusClip waits for the finished upload.
+
+3
+00:00:06,558 --> 00:00:09,278
+ClipMe's engine clips the live stream itself.
+
+4
+00:00:10,229 --> 00:00:11,758
+No per-minute meter.
+
+5
+00:00:11,758 --> 00:00:14,816
+Starter is free, and Pro is $29 a month.
+
+6
+00:00:15,765 --> 00:00:18,218
+Paste a VOD free at clipme.com.
+

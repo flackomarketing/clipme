@@ -1,0 +1,52 @@
+1
+00:00:00,350 --> 00:00:03,166
+What's the best OpusClip alternative for streamers?
+
+2
+00:00:04,116 --> 00:00:07,680
+For streamers on Kick, Twitch or YouTube, it's ClipMe.
+
+3
+00:00:07,680 --> 00:00:10,255
+OpusClip is great for finished uploads.
+
+4
+00:00:10,255 --> 00:00:13,225
+ClipMe's engine clips the live stream itself.
+
+5
+00:00:14,175 --> 00:00:16,368
+OpusClip needs the finished upload.
+
+6
+00:00:16,368 --> 00:00:23,071
+ClipMe's engine reads the live stream and cuts ranked clips in batches, so clips land during the broadcast.
+
+7
+00:00:24,021 --> 00:00:26,800
+It scores moments with a multi-signal model.
+
+8
+00:00:26,800 --> 00:00:30,336
+On Kick and Twitch, chat velocity is one of the signals.
+
+9
+00:00:31,286 --> 00:00:33,795
+There's no per-minute credit meter.
+
+10
+00:00:33,795 --> 00:00:35,157
+Pricing is per VOD.
+
+11
+00:00:35,157 --> 00:00:39,243
+Starter is free with a watermark, and Pro is $29 a month.
+
+12
+00:00:40,193 --> 00:00:43,682
+Compare every OpusClip alternative at clipme.com.
+
+13
+00:00:43,682 --> 00:00:45,676
+Paste a VOD and try it free.
+

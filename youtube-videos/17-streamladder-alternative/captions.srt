@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,462
+What's the best StreamLadder alternative?
+
+2
+00:00:03,750 --> 00:00:07,307
+If you want AI to find the moments, it's ClipMe.
+
+3
+00:00:07,307 --> 00:00:11,531
+StreamLadder's AI clip finder is on its $27-a-month plan.
+
+4
+00:00:11,531 --> 00:00:15,014
+ClipMe's AI picker is on the free Starter plan.
+
+5
+00:00:15,964 --> 00:00:19,499
+StreamLadder's cheaper plans don't include the AI finder.
+
+6
+00:00:19,499 --> 00:00:23,964
+ClipMe ranks the whole stream and cuts the clips for you, starting free.
+
+7
+00:00:24,914 --> 00:00:30,994
+It ranks moments with a multi-signal model, and on Kick and Twitch, chat activity is one of the signals.
+
+8
+00:00:31,944 --> 00:00:37,256
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+9
+00:00:38,206 --> 00:00:41,362
+See ClipMe versus StreamLadder at clipme.com.
+
+10
+00:00:41,362 --> 00:00:43,326
+Paste a VOD and try it free.
+

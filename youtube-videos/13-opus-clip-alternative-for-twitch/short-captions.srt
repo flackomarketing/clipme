@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:02,199
+Using OpusClip for Twitch?
+
+2
+00:00:02,199 --> 00:00:02,910
+Read this.
+
+3
+00:00:03,860 --> 00:00:07,261
+On OpusClip's free plan, Twitch links need an upgrade.
+
+4
+00:00:07,261 --> 00:00:09,151
+ClipMe's free plan takes them.
+
+5
+00:00:10,101 --> 00:00:12,810
+It ranks moments with Twitch chat as one signal.
+
+6
+00:00:13,760 --> 00:00:16,213
+Paste a VOD free at clipme.com.
+

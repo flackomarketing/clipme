@@ -1,0 +1,32 @@
+1
+00:00:00,350 --> 00:00:02,931
+Clip Kick streams automatically in three steps.
+
+2
+00:00:03,881 --> 00:00:04,173
+One.
+
+3
+00:00:04,173 --> 00:00:05,780
+Paste a Kick VOD link.
+
+4
+00:00:06,730 --> 00:00:06,978
+Two.
+
+5
+00:00:06,978 --> 00:00:09,887
+ClipMe ranks the moments, chat spikes included.
+
+6
+00:00:10,837 --> 00:00:11,153
+Three.
+
+7
+00:00:11,153 --> 00:00:13,312
+Review the captioned clips and post them.
+
+8
+00:00:14,262 --> 00:00:16,715
+Paste a VOD free at clipme.com.
+

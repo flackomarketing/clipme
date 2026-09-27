@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:02,974
+Turn a YouTube VOD into Shorts with AI.
+
+2
+00:00:03,924 --> 00:00:05,824
+Stop scrubbing hours of video.
+
+3
+00:00:05,824 --> 00:00:08,105
+Paste the URL and get ranked Shorts.
+
+4
+00:00:09,055 --> 00:00:11,764
+One long stream is full of Shorts you haven't cut yet.
+
+5
+00:00:12,715 --> 00:00:15,168
+Paste a VOD free at clipme.com.
+

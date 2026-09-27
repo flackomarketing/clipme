@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:02,334
+Can an AI clipper read Kick chat?
+
+2
+00:00:03,750 --> 00:00:04,020
+Yes.
+
+3
+00:00:04,020 --> 00:00:05,572
+ClipMe reads Kick chat.
+
+4
+00:00:05,572 --> 00:00:12,049
+Paste a Kick VOD, and chat activity becomes one of the signals ClipMe uses to rank every moment.
+
+5
+00:00:12,999 --> 00:00:16,582
+By hand, you scrub the whole VOD and guess what chat loved.
+
+6
+00:00:16,582 --> 00:00:19,740
+ClipMe reads the chat and ranks the moments for you.
+
+7
+00:00:20,690 --> 00:00:22,894
+When Kick chat spikes, that counts.
+
+8
+00:00:22,894 --> 00:00:27,175
+Chat activity is one of the signals ClipMe uses to rank each moment.
+
+9
+00:00:28,125 --> 00:00:33,437
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+10
+00:00:34,387 --> 00:00:38,214
+See the best AI clipping tools for Kick at clipme.com.
+
+11
+00:00:38,214 --> 00:00:40,552
+Paste a Kick VOD and try it free.
+

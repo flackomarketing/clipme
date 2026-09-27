@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:02,291
+Still picking every clip by hand?
+
+2
+00:00:03,241 --> 00:00:06,921
+StreamLadder's AI finder is on its $27 plan.
+
+3
+00:00:06,921 --> 00:00:09,513
+ClipMe's AI picker starts free.
+
+4
+00:00:10,463 --> 00:00:13,194
+It ranks the whole stream and cuts captioned clips.
+
+5
+00:00:14,144 --> 00:00:16,597
+Paste a VOD free at clipme.com.
+

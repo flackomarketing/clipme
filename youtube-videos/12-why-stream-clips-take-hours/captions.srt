@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:02,313
+Why do my stream clips take hours?
+
+2
+00:00:03,750 --> 00:00:07,137
+VOD-first clippers only start after your stream ends.
+
+3
+00:00:07,137 --> 00:00:10,332
+They download the whole VOD and put it in a queue.
+
+4
+00:00:10,332 --> 00:00:17,937
+Eklipse's own site says clips typically land 20 to 60 minutes after the stream ends, and longer when the queue is busy.
+
+5
+00:00:18,887 --> 00:00:21,755
+ClipMe's engine can clip during the stream itself.
+
+6
+00:00:21,755 --> 00:00:25,884
+It captures the stream in windows, so clips land while it's still going.
+
+7
+00:00:26,834 --> 00:00:33,170
+It ranks every moment with a multi-signal model, and on Kick and Twitch, chat activity is one of the signals.
+
+8
+00:00:34,120 --> 00:00:36,465
+There's no per-minute credit meter.
+
+9
+00:00:36,465 --> 00:00:40,285
+Starter is free with a watermark, and Pro is $29 a month.
+
+10
+00:00:41,235 --> 00:00:45,000
+See the best AI clipping tools for Kick at clipme.com.
+
+11
+00:00:45,000 --> 00:00:46,952
+Paste a VOD and try it free.
+

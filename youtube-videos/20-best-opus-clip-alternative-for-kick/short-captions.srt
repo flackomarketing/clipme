@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:02,021
+Using OpusClip on Kick?
+
+2
+00:00:02,021 --> 00:00:02,675
+Try this.
+
+3
+00:00:03,625 --> 00:00:05,519
+OpusClip waits for the upload.
+
+4
+00:00:05,519 --> 00:00:08,233
+ClipMe's engine clips the live Kick stream.
+
+5
+00:00:09,183 --> 00:00:13,919
+It ranks moments with Kick chat as one signal and cuts captioned vertical clips.
+
+6
+00:00:14,869 --> 00:00:17,472
+Paste a Kick VOD free at clipme.com.
+

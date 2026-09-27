@@ -1,0 +1,48 @@
+1
+00:00:00,350 --> 00:00:02,227
+Can OpusClip clip a live stream?
+
+2
+00:00:03,750 --> 00:00:03,933
+No.
+
+3
+00:00:03,933 --> 00:00:09,233
+OpusClip's own help center says uploading while you're still streaming isn't supported.
+
+4
+00:00:09,233 --> 00:00:11,914
+You wait for the stream to end, then upload.
+
+5
+00:00:11,914 --> 00:00:15,569
+ClipMe's engine clips live Kick, Twitch and YouTube streams.
+
+6
+00:00:16,519 --> 00:00:21,743
+OpusClip is built around a finished file, and its free plan doesn't take Twitch links.
+
+7
+00:00:21,743 --> 00:00:24,476
+ClipMe's engine reads the live stream itself.
+
+8
+00:00:25,426 --> 00:00:31,506
+It ranks moments with a multi-signal model, and on Kick and Twitch, chat activity is one of the signals.
+
+9
+00:00:32,456 --> 00:00:34,851
+There's no per-minute credit meter.
+
+10
+00:00:34,851 --> 00:00:39,709
+ClipMe's Starter plan is free with a watermark, and Pro is $29 a month.
+
+11
+00:00:40,659 --> 00:00:43,934
+See every OpusClip alternative at clipme.com.
+
+12
+00:00:43,934 --> 00:00:45,971
+Paste a VOD and try it free.
+

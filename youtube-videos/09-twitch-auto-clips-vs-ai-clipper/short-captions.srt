@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:01,950
+Are Twitch's free clips enough?
+
+2
+00:00:02,900 --> 00:00:06,176
+"Clip That" grabs 60 seconds, one moment at a time.
+
+3
+00:00:06,176 --> 00:00:08,681
+Auto Clips is still in limited testing.
+
+4
+00:00:09,631 --> 00:00:13,258
+ClipMe ranks the whole stream and cuts vertical, captioned clips.
+
+5
+00:00:14,208 --> 00:00:16,661
+Paste a VOD free at clipme.com.
+

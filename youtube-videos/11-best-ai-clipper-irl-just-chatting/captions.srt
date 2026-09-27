@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:03,465
+What's the best AI clipper for IRL and Just Chatting?
+
+2
+00:00:04,415 --> 00:00:06,394
+Pick a clipper that reads chat.
+
+3
+00:00:06,394 --> 00:00:08,885
+There's no kill feed in a conversation.
+
+4
+00:00:08,885 --> 00:00:13,546
+ClipMe ranks moments with chat activity as one signal on Kick and Twitch.
+
+5
+00:00:14,495 --> 00:00:17,087
+Game-event tools look for kills and wins.
+
+6
+00:00:17,087 --> 00:00:20,185
+In a talk stream, the moment is when chat erupts.
+
+7
+00:00:20,185 --> 00:00:23,220
+On Kick and Twitch, ClipMe listens for that too.
+
+8
+00:00:24,171 --> 00:00:26,838
+When chat erupts, that moment moves up the ranking.
+
+9
+00:00:27,787 --> 00:00:33,099
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+10
+00:00:34,049 --> 00:00:37,193
+See the full IRL breakdown at clipme.com.
+
+11
+00:00:37,193 --> 00:00:39,340
+Paste a VOD and try it free.
+

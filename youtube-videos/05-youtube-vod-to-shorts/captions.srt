@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,718
+How do you turn a YouTube VOD into Shorts?
+
+2
+00:00:03,750 --> 00:00:05,331
+Drop the URL into ClipMe.
+
+3
+00:00:05,331 --> 00:00:10,897
+It scores the whole video, pulls the best moments, and renders them as captioned Shorts.
+
+4
+00:00:11,847 --> 00:00:14,740
+A long stream is full of Shorts you haven't cut yet.
+
+5
+00:00:14,740 --> 00:00:17,799
+The hard part is finding which 40 seconds are worth it.
+
+6
+00:00:18,749 --> 00:00:27,005
+ClipMe ranks every moment, then renders the best ones as vertical Shorts, and Pro adds 4:5, 1:1 and the original shape.
+
+7
+00:00:27,955 --> 00:00:28,786
+Honest note.
+
+8
+00:00:28,786 --> 00:00:33,009
+For talking-head podcasts, tools like OpusClip are excellent.
+
+9
+00:00:33,009 --> 00:00:35,571
+ClipMe is built for long stream VODs.
+
+10
+00:00:36,521 --> 00:00:38,334
+Try it free at clipme.com.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,350 --> 00:00:02,675
+Is OpusClip worth it for Kick streamers?
+
+2
+00:00:03,625 --> 00:00:06,761
+You upload after the stream, and credits run by the minute.
+
+3
+00:00:07,711 --> 00:00:12,916
+ClipMe reads Kick chat as one ranking signal and prices per VOD, not per minute.
+
+4
+00:00:13,867 --> 00:00:16,320
+Paste a VOD free at clipme.com.
+

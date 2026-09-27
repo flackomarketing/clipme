@@ -1,0 +1,28 @@
+1
+00:00:00,350 --> 00:00:01,799
+Free trial, or free plan?
+
+2
+00:00:01,799 --> 00:00:03,017
+They're not the same.
+
+3
+00:00:03,967 --> 00:00:04,667
+Trials end.
+
+4
+00:00:04,667 --> 00:00:07,914
+ClipMe's Starter plan is free every month, no card.
+
+5
+00:00:08,863 --> 00:00:10,070
+It doesn't expire.
+
+6
+00:00:10,070 --> 00:00:14,495
+One VOD a month under 5 hours, captioned, with a ClipMe watermark.
+
+7
+00:00:15,445 --> 00:00:17,898
+Paste a VOD free at clipme.com.
+

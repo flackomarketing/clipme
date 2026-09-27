@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:02,569
+How do you clip Kick streams automatically?
+
+2
+00:00:03,750 --> 00:00:09,745
+Paste your Kick VOD link into ClipMe, and it finds, cuts, and captions the best moments for you.
+
+3
+00:00:10,695 --> 00:00:11,350
+Step one.
+
+4
+00:00:11,350 --> 00:00:12,950
+Paste a Kick VOD link.
+
+5
+00:00:12,950 --> 00:00:15,132
+No download, and no re-upload.
+
+6
+00:00:16,082 --> 00:00:16,649
+Step two.
+
+7
+00:00:16,649 --> 00:00:23,143
+ClipMe scores the stream, chat spikes included, and cuts the top moments into captioned vertical clips.
+
+8
+00:00:24,093 --> 00:00:24,779
+Step three.
+
+9
+00:00:24,779 --> 00:00:29,021
+Review the ranked clips, then post them to TikTok, Reels and Shorts.
+
+10
+00:00:29,971 --> 00:00:31,864
+Start free at clipme.com.
+
+11
+00:00:31,864 --> 00:00:33,000
+No card needed.
+

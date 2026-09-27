@@ -1,0 +1,16 @@
+1
+00:00:00,350 --> 00:00:02,995
+When chat goes crazy, that moment ranks higher.
+
+2
+00:00:03,945 --> 00:00:08,809
+ClipMe measures how fast chat moves on Kick and Twitch, as one signal in its model.
+
+3
+00:00:09,759 --> 00:00:12,490
+The top-ranked moments come out captioned and vertical.
+
+4
+00:00:13,440 --> 00:00:15,893
+Paste a VOD free at clipme.com.
+

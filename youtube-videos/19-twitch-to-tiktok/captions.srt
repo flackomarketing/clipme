@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,739
+How do you turn Twitch streams into TikToks?
+
+2
+00:00:03,750 --> 00:00:05,894
+Don't convert one clip at a time.
+
+3
+00:00:05,894 --> 00:00:08,039
+Paste the Twitch VOD into ClipMe.
+
+4
+00:00:08,039 --> 00:00:13,627
+It ranks the whole stream and cuts vertical, captioned clips, ready to post on TikTok.
+
+5
+00:00:14,577 --> 00:00:17,332
+Clip converters crop one clip you already found.
+
+6
+00:00:17,332 --> 00:00:20,145
+ClipMe finds the moments across the whole stream.
+
+7
+00:00:21,095 --> 00:00:26,407
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+8
+00:00:27,357 --> 00:00:32,946
+It reads Twitch chat, and chat activity is one of the signals ClipMe uses to rank each moment.
+
+9
+00:00:33,897 --> 00:00:37,535
+See how Twitch VODs become TikToks at clipme.com.
+
+10
+00:00:37,535 --> 00:00:39,614
+Paste a VOD and try it free.
+

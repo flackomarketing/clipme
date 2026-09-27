@@ -1,0 +1,16 @@
+1
+00:00:00,350 --> 00:00:03,422
+A free AI clipper with no card and no credits.
+
+2
+00:00:04,372 --> 00:00:07,593
+Starter uses the same AI picker as the paid plans.
+
+3
+00:00:08,543 --> 00:00:12,255
+One VOD a month, under 5 hours, with a ClipMe watermark.
+
+4
+00:00:13,205 --> 00:00:15,658
+Paste a VOD free at clipme.com.
+

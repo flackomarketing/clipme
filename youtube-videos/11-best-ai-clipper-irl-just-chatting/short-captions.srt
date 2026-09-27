@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:02,739
+IRL streams don't have kill feeds.
+
+2
+00:00:03,689 --> 00:00:05,678
+Game-event tools look for kills.
+
+3
+00:00:05,678 --> 00:00:09,406
+On Kick and Twitch, ClipMe reads chat as one ranking signal.
+
+4
+00:00:10,357 --> 00:00:13,302
+When chat erupts, that moment moves up the ranking.
+
+5
+00:00:13,302 --> 00:00:16,074
+The top moments come out captioned and vertical.
+
+6
+00:00:17,024 --> 00:00:19,477
+Paste a VOD free at clipme.com.
+

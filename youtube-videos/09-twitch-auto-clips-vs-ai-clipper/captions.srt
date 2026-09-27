@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,249
+Are Twitch's free clip tools enough?
+
+2
+00:00:03,750 --> 00:00:06,865
+It depends how much of the stream you want clipped.
+
+3
+00:00:06,865 --> 00:00:12,423
+Twitch's "Clip That" grabs the last 60 seconds, and Auto Clips is still in limited testing.
+
+4
+00:00:12,423 --> 00:00:17,553
+To get the whole stream ranked into captioned clips, pick an AI clipper like ClipMe.
+
+5
+00:00:18,503 --> 00:00:21,388
+Twitch's tools are free and great for one moment.
+
+6
+00:00:21,388 --> 00:00:24,626
+ClipMe ranks the whole stream and cuts captioned clips.
+
+7
+00:00:25,575 --> 00:00:31,164
+It reads Twitch chat, and chat activity is one of the signals ClipMe uses to rank each moment.
+
+8
+00:00:32,115 --> 00:00:37,427
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+9
+00:00:38,377 --> 00:00:41,823
+If you only need one quick clip, keep the free tools.
+
+10
+00:00:41,823 --> 00:00:45,268
+For the whole stream, paste a VOD free at clipme.com.
+

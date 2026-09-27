@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,974
+What's the best OpusClip alternative for Twitch?
+
+2
+00:00:03,924 --> 00:00:06,010
+For Twitch streamers, it's ClipMe.
+
+3
+00:00:06,010 --> 00:00:08,894
+OpusClip's free plan doesn't take Twitch links.
+
+4
+00:00:08,894 --> 00:00:13,311
+ClipMe's free plan does, and it reads Twitch chat as one ranking signal.
+
+5
+00:00:14,261 --> 00:00:18,806
+OpusClip meters credits by the minute and needs the finished upload.
+
+6
+00:00:18,806 --> 00:00:20,277
+ClipMe prices per VOD.
+
+7
+00:00:21,227 --> 00:00:26,816
+It reads Twitch chat, and chat activity is one of the signals ClipMe uses to rank each moment.
+
+8
+00:00:27,766 --> 00:00:33,078
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+9
+00:00:34,028 --> 00:00:37,148
+See every OpusClip alternative at clipme.com.
+
+10
+00:00:37,148 --> 00:00:39,575
+Paste a Twitch VOD and try it free.
+

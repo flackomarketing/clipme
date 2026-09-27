@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:03,187
+What's the best AI clipping tool for Kick streamers?
+
+2
+00:00:04,137 --> 00:00:04,608
+ClipMe.
+
+3
+00:00:04,608 --> 00:00:05,954
+It's built for Kick.
+
+4
+00:00:05,954 --> 00:00:11,540
+Its engine clips live Kick streams during the broadcast, or any Kick VOD you paste.
+
+5
+00:00:12,490 --> 00:00:14,014
+Paste a Kick VOD link.
+
+6
+00:00:14,014 --> 00:00:16,300
+ClipMe pulls the stream directly.
+
+7
+00:00:16,300 --> 00:00:18,378
+No download, and no re-upload.
+
+8
+00:00:19,328 --> 00:00:26,176
+It's built for IRL and Just Chatting, where there's no kill feed, and chat velocity is one of the signals it reads.
+
+9
+00:00:27,126 --> 00:00:32,438
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+10
+00:00:33,388 --> 00:00:36,418
+See the full Kick comparison at clipme.com.
+
+11
+00:00:36,418 --> 00:00:38,743
+Paste a Kick VOD and try it free.
+

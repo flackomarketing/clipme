@@ -1,0 +1,28 @@
+1
+00:00:00,350 --> 00:00:02,593
+Can OpusClip clip a live stream?
+
+2
+00:00:02,593 --> 00:00:02,803
+No.
+
+3
+00:00:03,753 --> 00:00:07,659
+Its own help center says uploads while streaming aren't supported.
+
+4
+00:00:07,659 --> 00:00:09,257
+ClipMe's engine clips live.
+
+5
+00:00:10,207 --> 00:00:11,622
+Kick, Twitch and YouTube.
+
+6
+00:00:11,622 --> 00:00:12,810
+Captioned and ranked.
+
+7
+00:00:13,760 --> 00:00:16,213
+Paste a VOD free at clipme.com.
+

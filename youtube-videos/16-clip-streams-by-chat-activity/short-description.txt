@@ -1,0 +1,8 @@
+When chat goes crazy, that moment ranks higher #kick #twitch
+
+What happens to a moment when chat goes crazy? It ranks higher. It's called chat velocity clipping. ClipMe measures how fast chat is moving, and uses that as one signal to rank moments on Kick and Twitch.
+
+Full breakdown: https://clipme.com/chat-velocity-clipping
+Paste a VOD and try it free: https://clipme.com
+
+#Shorts #Streamer

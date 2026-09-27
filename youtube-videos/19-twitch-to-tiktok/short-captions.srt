@@ -1,0 +1,16 @@
+1
+00:00:00,350 --> 00:00:02,355
+Turn your Twitch stream into TikToks.
+
+2
+00:00:03,305 --> 00:00:05,289
+Stop converting one clip at a time.
+
+3
+00:00:06,239 --> 00:00:09,844
+ClipMe ranks the whole stream and cuts captioned vertical clips.
+
+4
+00:00:10,795 --> 00:00:13,248
+Paste a VOD free at clipme.com.
+
