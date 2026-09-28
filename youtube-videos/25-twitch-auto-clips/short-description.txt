@@ -1,0 +1,10 @@
+No Twitch Auto Clips yet? #twitch #streamer
+
+How do Twitch Auto Clips work? Auto Clips are Twitch's own automatic clips, and they're still in limited testing, so not every channel has them. If yours doesn't, paste the Twitch VOD into ClipMe. It ranks the whole stream and cuts captioned vertical clips.
+
+Full breakdown: https://clipme.com/best-auto-clipper-for-streamers
+Paste a VOD and try it free: https://clipme.com
+
+Source for competitor details: Twitch blog & Help, Sept 2026. Check their site for current terms.
+
+#Shorts #Kick

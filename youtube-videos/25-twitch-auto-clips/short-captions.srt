@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:02,121
+Don't have Twitch Auto Clips yet?
+
+2
+00:00:03,071 --> 00:00:05,097
+They're still in limited testing.
+
+3
+00:00:05,097 --> 00:00:07,615
+ClipMe works on any Twitch VOD you paste.
+
+4
+00:00:08,565 --> 00:00:11,786
+It ranks the whole stream and cuts captioned vertical clips.
+
+5
+00:00:12,736 --> 00:00:15,189
+Paste a VOD free at clipme.com.
+

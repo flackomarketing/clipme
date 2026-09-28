@@ -1,0 +1,24 @@
+1
+00:00:00,350 --> 00:00:01,957
+Starting a clipping agency?
+
+2
+00:00:01,957 --> 00:00:02,611
+Start here.
+
+3
+00:00:03,561 --> 00:00:05,489
+Don't scrub every VOD by hand.
+
+4
+00:00:05,489 --> 00:00:08,702
+ClipMe ranks each stream and cuts captioned clips.
+
+5
+00:00:09,653 --> 00:00:11,786
+And only clip streamers who've said yes.
+
+6
+00:00:12,736 --> 00:00:15,189
+Paste a VOD free at clipme.com.
+

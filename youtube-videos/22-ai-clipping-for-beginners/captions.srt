@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,675
+What is AI clipping, and how do you start?
+
+2
+00:00:03,750 --> 00:00:07,680
+AI clipping means software goes through the whole stream for you.
+
+3
+00:00:07,680 --> 00:00:14,331
+Paste a VOD link into ClipMe, and it ranks the moments, then cuts the best ones into captioned vertical clips.
+
+4
+00:00:15,281 --> 00:00:18,287
+By hand, you scrub hours of footage for every clip.
+
+5
+00:00:18,287 --> 00:00:22,236
+AI clipping does the searching, so you just review the ranked list.
+
+6
+00:00:23,186 --> 00:00:28,882
+Start on the free Starter plan: one VOD a month, under 5 hours, with a ClipMe watermark.
+
+7
+00:00:29,832 --> 00:00:32,714
+Then review the ranked clips and post the ones you like.
+
+8
+00:00:32,714 --> 00:00:33,949
+You decide what goes up.
+
+9
+00:00:34,899 --> 00:00:38,174
+See the best AI clipping tools at clipme.com.
+
+10
+00:00:38,174 --> 00:00:40,211
+Paste a VOD and try it free.
+

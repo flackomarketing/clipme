@@ -1,0 +1,40 @@
+1
+00:00:00,350 --> 00:00:02,697
+How do you turn Twitch clips into YouTube Shorts?
+
+2
+00:00:03,750 --> 00:00:08,653
+For one clip, Twitch can already make a portrait version and share it to Shorts.
+
+3
+00:00:08,653 --> 00:00:11,902
+For a whole stream, paste the Twitch VOD into ClipMe.
+
+4
+00:00:11,902 --> 00:00:15,334
+It ranks the moments and cuts captioned vertical Shorts.
+
+5
+00:00:16,284 --> 00:00:21,100
+Twitch's sharing works one clip at a time, and you still have to find the moment.
+
+6
+00:00:21,100 --> 00:00:22,705
+ClipMe ranks the whole VOD.
+
+7
+00:00:23,655 --> 00:00:29,244
+It reads Twitch chat, and chat activity is one of the signals ClipMe uses to rank each moment.
+
+8
+00:00:30,195 --> 00:00:35,507
+Every clip comes out captioned in 9:16, and Pro adds 4:5 and 1:1.
+
+9
+00:00:36,457 --> 00:00:39,960
+See how Twitch VODs become Shorts at clipme.com.
+
+10
+00:00:39,960 --> 00:00:42,004
+Paste a VOD and try it free.
+

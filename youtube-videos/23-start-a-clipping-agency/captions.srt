@@ -1,0 +1,36 @@
+1
+00:00:00,350 --> 00:00:02,142
+How do you start a clipping agency?
+
+2
+00:00:03,750 --> 00:00:05,018
+Start with permission.
+
+3
+00:00:05,018 --> 00:00:13,777
+Work with streamers who agree to be clipped, then let an AI clipper find the moments, so your time goes into reviewing and posting instead of scrubbing.
+
+4
+00:00:14,727 --> 00:00:18,245
+By hand, every new streamer means more hours of scrubbing.
+
+5
+00:00:18,245 --> 00:00:21,703
+With ClipMe, each stream comes back ranked and captioned.
+
+6
+00:00:22,653 --> 00:00:27,432
+Only clip streamers who've said yes, and agree up front on where the clips get posted.
+
+7
+00:00:28,381 --> 00:00:34,546
+Studio is $99 a month, with three seats, API access and white-label exports.
+
+8
+00:00:35,497 --> 00:00:39,713
+See the best AI clipping tools for agencies at clipme.com.
+
+9
+00:00:39,713 --> 00:00:41,748
+Paste a VOD and try it free.
+

@@ -1,4 +1,4 @@
-# ClipMe money-page videos: 21 topics × 2 videos
+# ClipMe money-page videos: 25 topics × 2 videos
 
 Each numbered folder (in upload order) has:
 - `video.mp4`: the 16:9 YouTube video, with `thumbnail.jpg`, `captions.srt` and `youtube-description.txt` (title, description, tags).
@@ -29,6 +29,10 @@ Upload in this order. Consecutive videos alternate between the six looks, and ea
 | 19 | `19-twitch-to-tiktok` | How to Turn a Twitch Stream into TikTok Clips (2026) | Twitch stream → TikTok-ready clips #twitch #tiktok | A · Receipt — white + red · D · Ribbon — red + white | /best-twitch-clipper |
 | 20 | `20-best-opus-clip-alternative-for-kick` | Best OpusClip Alternative for Kick Streamers (2026) — Reads Kick Chat, Ranks Every Moment | Using OpusClip on Kick? Try this. #kick #opusclip | B · Scoreboard — black + red · E · Lab — grey + red | /best-opus-clip-alternative-for-kick |
 | 21 | `21-free-ai-clipping-tool-no-card` | AI Clipper Free Trial vs Free Plan — What Streamers Actually Get (2026) | Free trial vs free plan #streamer #kick #twitch | C · Hardware — silver + red · F · Control — graphite + red | /best-free-ai-clipping-tool |
+| 22 | `22-ai-clipping-for-beginners` | AI Clipping for Beginners: Turn One Stream Into Ranked Clips | AI clipping, explained fast #clipping #streamer | D · Ribbon — red + white · A · Receipt — white + red | /best-ai-clipping-tools |
+| 23 | `23-start-a-clipping-agency` | Clipping Agency: How to Start One With an AI Clipper | Starting a clipping agency? Start here #clipping #clipper | E · Lab — grey + red · B · Scoreboard — black + red | /best-ai-clipping-tool-for-agencies |
+| 24 | `24-twitch-clips-to-youtube-shorts` | Twitch Clips to YouTube Shorts: The Fast Way | Twitch clips to YouTube Shorts, fast #twitch #shorts | F · Control — graphite + red · C · Hardware — silver + red | /best-vod-to-shorts |
+| 25 | `25-twitch-auto-clips` | Twitch Auto Clips: How They Work + What They Miss | No Twitch Auto Clips yet? #twitch #streamer | A · Receipt — white + red · D · Ribbon — red + white | /best-auto-clipper-for-streamers |
 
 ## Upload (@clipmeapp)
 1. **16:9 video:** paste the title, description and tags from `youtube-description.txt`. Set `thumbnail.jpg`. Upload `captions.srt` under Subtitles → English → "With timing". Category: Science & Technology. Not made for kids.

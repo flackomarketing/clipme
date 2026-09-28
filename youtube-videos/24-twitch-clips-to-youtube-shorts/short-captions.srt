@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:02,761
+Twitch clips to YouTube Shorts, the fast way.
+
+2
+00:00:03,711 --> 00:00:05,788
+Twitch shares one clip at a time.
+
+3
+00:00:05,788 --> 00:00:07,487
+ClipMe ranks the whole VOD.
+
+4
+00:00:08,437 --> 00:00:11,040
+Then it cuts captioned vertical Shorts you can post.
+
+5
+00:00:11,989 --> 00:00:14,442
+Paste a VOD free at clipme.com.
+

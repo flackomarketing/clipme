@@ -1,0 +1,44 @@
+1
+00:00:00,350 --> 00:00:02,057
+How do Twitch Auto Clips work?
+
+2
+00:00:03,750 --> 00:00:10,907
+Auto Clips are Twitch's own automatic clips, and they're still in limited testing, so not every channel has them.
+
+3
+00:00:10,907 --> 00:00:14,137
+If yours doesn't, paste the Twitch VOD into ClipMe.
+
+4
+00:00:14,137 --> 00:00:17,937
+It ranks the whole stream and cuts captioned vertical clips.
+
+5
+00:00:18,887 --> 00:00:22,036
+Auto Clips depend on Twitch letting your channel in.
+
+6
+00:00:22,036 --> 00:00:24,519
+ClipMe works on any Twitch VOD you paste.
+
+7
+00:00:25,469 --> 00:00:31,058
+It reads Twitch chat, and chat activity is one of the signals ClipMe uses to rank each moment.
+
+8
+00:00:32,008 --> 00:00:33,608
+And it isn't Twitch-only.
+
+9
+00:00:33,608 --> 00:00:36,232
+Paste a Kick or YouTube VOD the same way.
+
+10
+00:00:37,182 --> 00:00:40,801
+See the best auto clippers for streamers at clipme.com.
+
+11
+00:00:40,801 --> 00:00:42,643
+Paste a VOD and try it free.
+
