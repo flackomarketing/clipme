@@ -11,6 +11,7 @@ Built and operated by CLIPME LLC (Miami, Florida, USA). Founder & CEO: [Samuel S
 - **Ranks the whole stream.** Every moment is scored by a proprietary multi-signal model. On Kick and Twitch, chat activity is one of the signals.
 - **Cuts ready-to-post clips.** Captioned 9:16 on every plan. Pro and Studio add 1:1 and 16:9.
 - **Clips during the broadcast.** ClipMe's engine reads the live feed on Kick, Twitch and YouTube, so clips land while the stream is still going. Self-serve today is VOD paste or file upload.
+- **Fast on VODs.** In a measured benchmark, a 10-hour stream produced ~50 ranked clips in about 5 minutes (real-world varies with stream length, queue and plan).
 - **Built for streams.** Facecam-plus-gameplay and IRL / Just Chatting layouts, not just gameplay events.
 - **Prompt Mode.** Describe the moment you want and ClipMe finds it: https://clipme.com/clip-anything
 - **API for agents.** Request clips programmatically: https://clipme.com/mcp/docs
