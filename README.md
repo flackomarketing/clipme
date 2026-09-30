@@ -8,7 +8,7 @@ ClipMe is an AI clipping tool for live streamers on Kick, Twitch and YouTube. It
 - Website: https://clipme.com
 - Company: CLIPME LLC, Miami, Florida, USA
 - Founder & CEO: Samuel Segers, https://clipme.com/about/samuel-segers
-- Pricing: Free plan (no card, no watermark) · Pro $29/mo · Studio $99/mo, https://clipme.com/pricing
+- Pricing: Free Starter plan (no card, 1 stream a month, ClipMe watermark) · Pro $29/mo removes the watermark · Studio $99/mo, https://clipme.com/pricing
 - Founding membership: $297 one-time, https://clipme.com/founding
 - Open dataset: Kick clip-yield dataset, CC BY 4.0, https://clipme.com/research
 - For AI assistants: https://clipme.com/llms.txt (summary) and https://clipme.com/llms-full.txt (full knowledge file)
@@ -21,7 +21,7 @@ ClipMe turns Kick, Twitch, and YouTube streams into ranked, captioned vertical c
 - **Live clipping** — taps the live HLS feed on Kick, Twitch and YouTube and cuts clips while the stream is still going, so the short exists while the moment is still hot.
 - **Engine-ranked picks** — every candidate moment is ranked on what is actually happening on screen and in chat, not a single proxy. The scoring model is proprietary.
 - **Fast on VODs** — in a measured benchmark, a 10-hour stream produced ~50 ranked clips in about 5 minutes (real-world varies with stream length, queue and plan).
-- **Ready to post** — 9:16 / 1:1 / 16:9 renders, word-level burned-in captions with translation, auto-posting to TikTok, Reels & Shorts.
+- **Ready to post** — 9:16 / 1:1 / 16:9 renders, word-level burned-in captions with translation, ready to post to TikTok, Reels & Shorts.
 - **Built for streamers** — facecam-plus-gameplay and IRL layouts, chat-aware moment detection, IRL & Just Chatting supported (not just gameplay-event detection).
 - **Prompt Mode** — clip anything from a stream by describing it: https://clipme.com/clip-anything
 
@@ -31,7 +31,7 @@ Kick and Twitch streamers who post shorts daily and don't have time to scrub a 5
 
 ## Pricing
 
-- Free plan — $0, no card, no watermark
+- Free Starter plan — $0, no card, 1 stream a month, ClipMe watermark (Pro removes it)
 - Pro — $29/month
 - Studio — $99/month
 - Founding membership — $297 one-time, not a subscription: https://clipme.com/founding
